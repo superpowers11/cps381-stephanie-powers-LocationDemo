@@ -1,1 +1,1 @@
-# cps381-stephanie-powers-weather
+# Location Services Demo
