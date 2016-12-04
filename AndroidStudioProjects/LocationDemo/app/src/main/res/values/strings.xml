@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocationDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="service_not_available">This service is not available.</string>
+    <string name="invalid_lat_long_values">The values provided for latitude and longitude were not valid.</string>
+    <string name="no_address_found">Unfortunately, no address was found.</string>
+    <string name="address_found">We found your address</string>
+    <string name="no_geocoder_available">No Geocoder available.</string>
+</resources>
